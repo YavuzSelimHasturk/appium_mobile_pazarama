@@ -1,0 +1,8 @@
+2023-10-15 16:26:22,362 +0300 [main] INFO  (PazaramaSD.java:21) - Pazarama app was launched
+2023-10-15 16:26:25,685 +0300 [main] INFO  (PazaramaSD.java:27) - Preview pages before homepage skipped
+2023-10-15 16:26:27,189 +0300 [main] INFO  (PazaramaSD.java:33) - Verified that the app was opened correctly
+2023-10-15 16:26:27,405 +0300 [main] INFO  (PazaramaSD.java:39) - Clicked on the 'Categories' tab at the bottom of the page
+2023-10-15 16:26:29,745 +0300 [main] INFO  (PazaramaSD.java:45) - Desired category selected
+2023-10-15 16:26:33,748 +0300 [main] INFO  (PazaramaSD.java:51) - Search by entering the product name in the search box
+2023-10-15 16:26:45,084 +0300 [main] INFO  (PazaramaSD.java:58) - The product has been added to cart
+2023-10-15 16:26:49,265 +0300 [main] INFO  (PazaramaSD.java:67) - Verified that the product has been added to cart
